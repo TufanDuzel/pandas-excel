@@ -42,9 +42,6 @@ This repository contains **Pandas** to analyze and process an Excel dataset. The
 - OpenPyXL (for reading `.xlsx` files)
 - Jupyter Notebook
 
-## 📜 License
-This project is licensed under the MIT License. Feel free to use and modify it.
-
 ---
 
 Happy coding! 🚀
