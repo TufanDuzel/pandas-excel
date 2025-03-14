@@ -1,4 +1,4 @@
-# Excel Quiz Solver with Pandas 📝📊
+# Excel Quiz With Pandas 📝📊
 
 This repository contains **Pandas** to analyze and process an Excel dataset. The main objective is to solve an Excel-based quiz related to salary data.
 
